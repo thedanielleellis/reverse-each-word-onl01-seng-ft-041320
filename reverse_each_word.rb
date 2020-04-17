@@ -1,1 +1,1 @@
-reverse_each_word("My name is Danielle")
+reverse_each_word("word")
